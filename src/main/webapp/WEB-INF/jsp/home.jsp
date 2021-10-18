@@ -85,7 +85,7 @@
 	</div>
 	
 
-	<div class ="container" style="width: 100rem;">
+	<!-- <div class ="container" style="width: 100rem;">
 	<div class="jumbotron">
 		<h3 id="title" style="text-align: center"></h3>
 		<div id="image" style="text-align: center"></div>
@@ -93,7 +93,7 @@
 		<div id="url" style="text-align: center"></div>
 		
 	</div>
-	</div>
+	</div> -->
 
 <!-- BEGIN Stock Widget -->
 <div class="tradingview-widget-container">
